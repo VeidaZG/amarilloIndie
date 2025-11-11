@@ -135,7 +135,7 @@ tabla_prov.pack(fill="x", padx=10, pady=10)
 
 
 
-# ========================== REACCIONES ==========================
+# ========================== REACCIONES uwuwuwuuwuwuwuwuwu=
 frame_ref = ttk.Frame(notebook)
 notebook.add(frame_ref, text="Refacciones")
 
