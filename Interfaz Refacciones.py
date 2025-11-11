@@ -4,8 +4,6 @@ from datetime import datetime
 from PIL import Image, ImageTk
 
 
-
-
 # Crear ventana
 root = tk.Tk()
 root.title("Sistema de Gestión - Refaccionaria Automotriz")
